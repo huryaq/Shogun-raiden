@@ -2,8 +2,8 @@
 
 #text formatting....
 
-on_pic = "https://ibb.co/1t70y24D"
-off_pic = "https://ibb.co/whKGfrQV"
+on_pic = "https://ibb.co/8nhWzWRg"
+off_pic = "https://ibb.co/1tDTwtNj"
 files_cmd_pic = "https://envs.sh/Nyc.jpg"
 autodel_cmd_pic = "https://envs.sh/NyZ.jpg"
 
