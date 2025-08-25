@@ -34,7 +34,7 @@ DB_NAME = os.environ.get("DATABASE_NAME", "Raiden_Shogun_File_Bot")
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 
 #Collection of pics for Bot // #Optional but atleast one pic link should be replaced if you don't want predefined links
-PICS = (os.environ.get("PICS", "https://ibb.co/v61mLHz5")).split() #Required
+PICS = (os.environ.get("PICS", "https://graph.org/file/b866b2bb0d60b6dd0daa3-81aaec558d33bedc2c.jpg")).split() #Required
 
 #set your Custom Caption here, Keep None for Disable Custom Caption
 CUSTOM_CAPTION = os.environ.get("CUSTOM_CAPTION", None)
