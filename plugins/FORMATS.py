@@ -2,9 +2,9 @@
 
 #text formatting....
 
-on_pic = "https://ibb.co/8nhWzWRg"
-off_pic = "https://ibb.co/1tDTwtNj"
-files_cmd_pic = "https://envs.sh/Nyc.jpg"
+on_pic = "https://graph.org/file/f5d4f8488b8859f67f41f-f109b6e3669d6e1dbd.jpg"
+off_pic = "https://graph.org/file/d3073ee5d697480059048-3e4b23cbfebf31d5e8.jpg"
+files_cmd_pic = "https://graph.org/file/ac1d3988b3b12e837a2e3-e83d1460e6702e48c1.jpg"
 autodel_cmd_pic = "https://envs.sh/NyZ.jpg"
 
 #start message
